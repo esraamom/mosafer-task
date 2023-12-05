@@ -1,0 +1,17 @@
+{
+  "searchCriteria": [
+    {
+      "lookupTypeId": 2,
+      "lookupId": [
+        9
+      ]
+    }
+  ],
+  "checkIn": "2023-12-05",
+  "checkOut": "2023-12-08",
+  "sortBy": "rank",
+  "sortOrder": "DESC",
+  "rankType": "dynamic",
+  "pageNo": 1,
+  "pageSize": 10
+}
